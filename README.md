@@ -6,9 +6,9 @@ Hi! I'm Abhisek Gupta, a full-stack web developer building production-ready web 
 
 ## 🔹 Tech Stack
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui  
-- **Backend / Database:** PostgreSQL, Neon, Drizzle ORM, Node.js  
-- **Authentication & Payments:** Clerk, Stripe  
-- **DevOps & Tools:** Docker, GitHub Actions, Vercel  
+- **Backend / Database:** PostgreSQL, Neon, Drizzle ORM, Node.js,Mongo DB,Prisma 
+- **Authentication & Payments:** Next Auth, Clerk, Stripe  
+- **DevOps & Tools(Basic):** Docker, GitHub Actions, Vercel  
 
 ---
 
