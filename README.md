@@ -1,4 +1,4 @@
-# Abhisek Gupta — Next.js Full-Stack Developer
+# Abhisek Gupta — Product-Focused Software Engineer (Backend-Leaning, Node.js)
 
 Hi! I'm Abhisek Gupta, a full-stack web developer building production-ready web applications using **Next.js, React, TypeScript, and modern full-stack tools**. I focus on creating **scalable, maintainable, and high-performance applications** for SaaS and e-commerce platforms.
 
